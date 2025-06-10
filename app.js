@@ -2,4 +2,4 @@
     console.log(`Hello my name is ${name}. iam ${age} years old`)
 }
 
-demo('david',50)
+demo('Michale',50)
